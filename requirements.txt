@@ -5,6 +5,7 @@ scipy
 matplotlib
 jinja2
 geopandas
+shapely
 scikit-learn
 plotly
 openpyxl
